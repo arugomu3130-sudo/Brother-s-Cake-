@@ -1,0 +1,6 @@
+{
+  "name": "Bakery Manager",
+  "description": "Manage real-time inventory and customer orders with a beautiful, appetizing interface, low stock alerts, and sales insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
